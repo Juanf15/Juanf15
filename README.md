@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Seja+bem-vindo!+👋;+Me+chamo+Juan+França!;" />
+</h1>
+
 <h6 align="left">👋 Olá, eu sou Juan França!<br>💻 Desenvolvedor em constante evolução<br>Sou estudante de Ciência da Computação pela Unip, apaixonado por tecnologia e inovação. Sempre em busca de transformar ideias em soluções práticas e criativas.<br>✨ Por que faço o que faço:<br>Acredito no poder da tecnologia para resolver problemas e gerar impacto positivo no mundo.</h6>
 
 ###
@@ -32,7 +36,7 @@
   <a href="https://www.linkedin.com/in/juan-frança-129b17240/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="juanf3030@gmail.com" target="_blank">
+  <a href="mailto:juanf3030@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/juan_f15/" target="_blank">
@@ -43,22 +47,15 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juanf15&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> 
-  <div align="right">
-  <img height="100" src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif"  />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Juanf15&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> 
+  <img style="margin-left: 20px" height="150" src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juanf15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Juanf15&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
 
-
-  
-</div>
-
-###
 
 <img src="https://raw.githubusercontent.com/Juanf15/Juanf15/output/snake.svg" alt="Snake animation" />
 
-###
+
